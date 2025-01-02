@@ -1,0 +1,18 @@
+{
+    "name": "sharat0/php-marque",
+    "description": "A customizable marquee with hover-pause functionality",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Sharat0\\PhpMarque\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "sharat0",
+            "email": "20cs1a1006@kristujayanti.com"
+        }
+    ],
+    "require": {}
+}
